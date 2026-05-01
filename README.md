@@ -1,4 +1,4 @@
-# 3D-Car-Game-Final-Graphics-Project-
+# 3D-Car-Game
 This project is a 3D car game that provides an interactive and immersive driving experience where players can control a car within a virtual environment. The game focuses on smooth controls, realistic movement, and engaging gameplay elements such as navigation, obstacle avoidance, and score tracking. Players can explore the environment, improve their driving skills, and enjoy a visually appealing 3D interface designed to enhance user experience.
 
 The game is developed using modern technologies for graphics rendering and interaction handling, ensuring responsive performance and smooth gameplay. Core features include real-time car movement, camera control, collision detection, and basic physics simulation to create a more realistic driving feel. The project follows a structured and modular approach, making it easy to expand with additional features such as multiple levels, different car models, sound effects, and advanced physics in the future. This 3D car game demonstrates practical implementation of game development concepts, user interaction, and real-time rendering techniques.
